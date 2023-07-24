@@ -1,5 +1,5 @@
 # printf()
-The printf project is a collaboration project by **Ayomide Suara** and **Remi Oni**, students of the ALX Software Engineering Programme by Holberton School, in which a function named "_printf" imitates the actual "printf" command located in the stdio.h library. It contains some of the basic features and functions found in the manual 3 of "printf".
+The printf project is a collaboration project by **Ihu Kingsley Ominyi** and **Chinweike Timothy*, students of the ALX Software Engineering Programme by Holberton School, in which a function named "_printf" imitates the actual "printf" command located in the stdio.h library. It contains some of the basic features and functions found in the manual 3 of "printf".
 
 _printf() is a function that performs formatted output conversion and prints data. Its prototype is the following:
 
@@ -322,9 +322,9 @@ Function That Returns The Amount Of Indetifiers.
 ------------
 
 ## Authors
-Suara Ayomide <aysuarex@gmail.com>
+Ihu Kingsley Ominyi <Ominyik@yahoo.co.uk>
 
-Oni Remi <oni.jremi@gmail.com>
+Chinweike Timothy <iamchinweike001@gmail.com>
 
 ------------
 
